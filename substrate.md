@@ -130,8 +130,8 @@
 * [Use in Substrate Code](https://github.com/paritytech/substrate/search?q=wasmi&unscoped_q=wasmi)
 ### Deployment
 #### Substrate
-* [Locally on Mac](https://github.com/paritytech/substrate#on-mac)
-* [From Code Base](https://github.com/paritytech/substrate#on-mac)
+* [Locally on Mac and Ubuntu](https://github.com/paritytech/substrate#51-on-mac-and-ubuntu)
+* [From Code Base](https://github.com/paritytech/substrate#6-building)
 #### Polkadot
 
 ### Interledger
